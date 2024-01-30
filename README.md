@@ -10,9 +10,13 @@ Sugestão: Leiam o tópico `Um pouco sobre Git:` do documento de `Materiais de e
 git clone diretório_do_repositorio
 ```
 
-```npm install```
+```
+npm install
+```
 
-```npm run start:dev```
+```
+npm run start:dev
+```
 
 ## Facilitadores
 
@@ -24,9 +28,11 @@ A biblioteca que centraliza isso é a "gaia".
 
 Para chmamar basta fazer como nas linhas mostradas aqui:
 
-```const gaia = new GaiaRoutes()```
+```
+const gaia = new GaiaRoutes()
 
-```gaia.createAllRoutes()```
+gaia.createAllRoutes()
+```
 
 Esses comandos vão ser suficientes para ler todos as pastas "src/routes" e criar as rotas correspondentes a cada arquivo criado de acordo com nosso parâmetro de padronização de diretórios.
 
