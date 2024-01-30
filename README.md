@@ -6,7 +6,9 @@ Sugestão: Leiam o tópico `Um pouco sobre Git:` do documento de `Materiais de e
 
 ## Rodar o projeto
 
-```git clone diretório_do_repositorio```
+```
+git clone diretório_do_repositorio
+```
 
 ```npm install```
 
